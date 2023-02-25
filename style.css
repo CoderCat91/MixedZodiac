@@ -13,11 +13,12 @@ main {
     display: flex;
     height: 100vh;
     width: 100vw;
-    background-image: url("./pexels-dương-nhân-2579916.jpg");
+    background-image: url("./pexels-philippe-donn-1169754.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: none;
     background-position: absolute;
+    object-fit: contain;
 }
 
 h1 {
